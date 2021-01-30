@@ -1,0 +1,100 @@
+body{
+    background-color:#252525 ;
+    margin: 0px;
+}
+
+.headerdate {
+background-color:#00adb5;
+width: 100%;
+height: 150px;
+margin: 0px;
+display: inline-block;
+color: #eeeeee;
+font-family: nunito;
+padding: 0px 0px 0px 35px;
+
+}
+
+.name{
+    font-weight: bold;
+    font-size: 45px;
+    color:#eeeeee ;
+    
+}
+
+.profesion{
+    
+        position: absolute;
+        left: 302px;
+        top: 56px;
+        font-family: nunito sans;
+        color: #222831;
+   
+
+}
+
+
+p{
+    
+    font-family: nunito sans;
+    color: #eeeeee ;
+}
+
+h1 {
+    font-family: nunito;
+    text-align: left;
+    font-size: 35px;
+    margin: 140px 0 11px 71px;
+    color:#eeeeee;
+}
+
+
+
+/*blanco #eeeeee    verde #00adb5   negro #222831 gris#222831    */
+
+.descripcion{
+position: absolute;
+width: 565px;
+height: 406px;
+margin: 0px 0px 0px 71px;
+}
+
+.imagenmia{
+    position: absolute;
+    left: 636px;
+    top: 240px;
+    width: 600PX;
+    height: auto;
+
+}
+
+
+.misestudios{
+    display: inline-block;
+    position: absolute;
+    width: 565px;
+height: 406px;
+margin: 260px 0px 0px 71px;
+}
+
+.misestudios h2 {
+    font-family: nunito;
+    font-size: 35px;
+    text-align: left;
+    margin: 306px 0 11px 0px;
+    color:#eeeeee;
+
+}
+
+h3{
+    font-family: nunito;
+    color:#00adb5;
+    font-size: 20px;
+    text-decoration: solid;
+    
+}
+
+footer{
+
+    background-color: #222831;
+}
